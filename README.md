@@ -77,7 +77,7 @@ lal = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://streak-stats.herokuapp.com/?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
