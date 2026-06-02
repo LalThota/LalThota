@@ -1,10 +1,24 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=99999&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=┌──────────────────────────────────────────────────────┐;│+%24+whoami+>+Lal+Thota+%7C+AI%2FML+Engineer+%7C+CSE+@+SRKR+│;│+%24+skills+>+Machine+Learning+·+Full-Stack+·+Security+│;│+%24+status+>+Intern+@+Stikbook+·+Open+to+Collabs+✓++│;└──────────────────────────────────────────────────────┘" />
-</picture>
+<!-- Terminal Header SVG - renders reliably on GitHub -->
+<svg width="700" height="160" viewBox="0 0 700 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="160" rx="10" fill="#0d1117"/>
+  <rect width="700" height="32" rx="10" fill="#1a1a2e"/>
+  <rect y="22" width="700" height="10" fill="#1a1a2e"/>
+  <circle cx="20" cy="16" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="16" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="16" r="6" fill="#28c840"/>
+  <text x="350" y="20" font-family="monospace" font-size="12" fill="#888" text-anchor="middle">terminal — lal@github: ~</text>
+  <text x="20" y="60" font-family="monospace" font-size="13" fill="#00FF41">$ whoami</text>
+  <text x="20" y="82" font-family="monospace" font-size="13" fill="#ffffff">➜  <tspan fill="#00FF41">Lal Thota</tspan> · AI/ML Engineer · Full-Stack Dev · Cybersecurity</text>
+  <text x="20" y="108" font-family="monospace" font-size="13" fill="#00FF41">$ cat status.txt</text>
+  <text x="20" y="130" font-family="monospace" font-size="13" fill="#ffffff">➜  AI/ML Intern @ Stikbook · SRKR CSE 2024–28 · CGPA 9.18 · 🏆 2x Hackathon Winner</text>
+  <text x="20" y="152" font-family="monospace" font-size="13" fill="#00FF41">█</text>
+</svg>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🏆+1st+Place+%7C+Prajwalan+2K26+National+Hackathon;🥇+Top+10+National+%7C+VisionX+Hackathon;🤖+Building+AI+systems+that+actually+matter;📱+Teaching+DSA+in+Tenglish+%40Techies.Hack)
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=🏆+1st+Place+%7C+Prajwalan+2K26+National+Hackathon;🥇+Top+10+National+%7C+VisionX+Hackathon;🤖+Building+AI+systems+that+actually+matter;📱+Teaching+DSA+%40Techies.Hack)
 
 </div>
 
@@ -73,13 +87,13 @@ lal = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LalThota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LalThota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true&cache_seconds=1800" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalThota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalThota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
@@ -99,7 +113,7 @@ lal = {
 | 🏫 [College Utility Portal](https://github.com/LalThota/College-Utility-Portal) | Full-Stack | All-in-one utilities portal for SRKR students |
 | 🎪 [VenueFlow](https://github.com/LalThota/VenueFlow) | Google Antigravity · AI | Smart venue assistant — Hack2Skill/PromptWars |
 
-> ⚠️ Check repo names match exactly — update any that differ from your actual GitHub repo names!
+> ⚠️ Check repo names match exactly with your actual GitHub repo names!
 
 ---
 
@@ -108,7 +122,7 @@ lal = {
 | 🥇 Award | 🏛️ Event | 📅 Year |
 |---------|----------|---------|
 | **🏆 1st Place** | Prajwalan 2K26 — EcoWipe (National Level) | 2026 |
-| **Top 10 National** | VisionX Hackathon — LateralShield | 2025 |
+| **Top 10 National** | VisionX Hackathon — LateralShield | 2026 |
 
 ---
 
@@ -137,9 +151,11 @@ ML Pipelines · Network Security · AI Agents · Full-Stack Dev
 
 <div align="center">
 
-```
-$ echo "Thanks for visiting — let's build something amazing 🚀"
-> Thanks for visiting — let's build something amazing 🚀
-```
+<!-- Terminal Footer SVG -->
+<svg width="500" height="60" viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="60" rx="8" fill="#0d1117"/>
+  <text x="25" y="25" font-family="monospace" font-size="13" fill="#00FF41">$ echo "Thanks for visiting!"</text>
+  <text x="25" y="48" font-family="monospace" font-size="13" fill="#ffffff">➜  Let's build something amazing together 🚀</text>
+</svg>
 
 </div>
