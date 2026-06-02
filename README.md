@@ -71,14 +71,9 @@ lal = {
 
 
 <div align="center">
-<img height="170" src="https://github-stats.vercel.app/api?username=LalThota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-&nbsp;
-<img height="170" src="https://github-stats.vercel.app/api/top-langs/?username=LalThota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalThota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6&exclude_repo=github-readme-stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LalThota&theme=tokyonight" />
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-<img src="https://streak-stats.demolab.com/?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
-
 </div>
 ---
 
