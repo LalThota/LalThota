@@ -72,9 +72,9 @@ lal = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LalThota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LalThota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalThota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalThota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6" />
 
 <br/>
 
