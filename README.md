@@ -72,7 +72,6 @@ lal = {
 
 <div align="center">
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LalThota&theme=tokyonight" />
-    <img height="170" src="https://github-stats.vercel.app/api?username=LalThota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LalThota&theme=tokyonight" />
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </div>
