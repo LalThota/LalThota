@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00d9ff,100:0a0a0a&height=220&section=header&text=LAL%20THOTA&fontSize=65&fontColor=00d9ff&fontAlignY=45&stroke=00d9ff&strokeWidth=2&desc=AI%2FML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=68&descColor=ffffff" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=99999&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=┌──────────────────────────────────────────────────────┐;│+%24+whoami+>+Lal+Thota+%7C+AI%2FML+Engineer+%7C+CSE+@+SRKR+│;│+%24+skills+>+Machine+Learning+·+Full-Stack+·+Security+│;│+%24+status+>+Intern+@+Stikbook+·+Open+to+Collabs+✓++│;└──────────────────────────────────────────────────────┘" />
+</picture>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+matter+🤖;2x+National+Hackathon+Winner+🏆;SRKR+CSE+%7C+CGPA+9.18+🎓;Teaching+DSA+in+Tenglish+@Techies.Hack+📱)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🏆+1st+Place+%7C+Prajwalan+2K26+National+Hackathon;🥇+Top+10+National+%7C+VisionX+Hackathon;🤖+Building+AI+systems+that+actually+matter;📱+Teaching+DSA+in+Tenglish+%40Techies.Hack)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portflio-lovat.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalsatyasaithota)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LalThota)
-[![Instagram](https://img.shields.io/badge/@Techies.Hack-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Techies.Hack)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lal98thota@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://portflio-lovat.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/lalsatyasaithota)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/LalThota)
+[![Instagram](https://img.shields.io/badge/@Techies.Hack-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/Techies.Hack)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:lal98thota@gmail.com)
 
 </div>
 
@@ -25,12 +27,12 @@ lal = {
     "role":       "AI/ML Intern @ Stikbook Pvt. Ltd. (Hyderabad)",
     "college":    "SRKR Engineering College, B.Tech CSE 2024–2028",
     "cgpa":       9.18,
-    "building":   "AI/ML systems, full-stack apps, and DSA education content",
+    "building":   "AI/ML systems, full-stack apps, DSA education content",
     "focus":      ["Machine Learning", "Full-Stack Dev", "Network Security"],
     "open_to":    ["AI/ML Roles", "Full-Stack Internships", "Hackathon Collabs"],
     "wins": [
-        "🏆 1st Place — EcoWipe, Prajwalan 2K26 (National Level Hackathon)",
-        "🥇 Top 10 National — Vision-X (LateralShield,Honeypot-based IDS)",
+        "🏆 1st Place — EcoWipe @ Prajwalan 2K26 (National Level)",
+        "🥇 Top 10 National — LateralShield @ VisionX Hackathon",
     ],
 }
 ```
@@ -71,13 +73,13 @@ lal = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LalThota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LalThota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalThota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalThota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=6" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=LalThota&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
@@ -87,13 +89,17 @@ lal = {
 
 | Project | Stack | Impact |
 |--------|-------|--------|
-| 🛡️ [LateralShield](https://github.com/LalThota/LateralShield) | Python · Scapy · Flask | Honeypot-based IDS — **Top 10 National** · Zero false negatives |
-| 🤖 [Decision Failure Prediction AI](https://github.com/LalThota/Decision-Failure-Prediction) | Python · ML · Pandas | Predictive AI — **Top 10 National** hackathon |
+| 🛡️ [LateralShield](https://github.com/LalThota/LateralShield) | Python · Scapy · Flask | Honeypot-based IDS — **🥇 Top 10 National** @ VisionX |
 | 🌿 [EcoWipe](https://github.com/LalThota/EcoWipe) | Full-Stack | **🏆 1st Place** — Prajwalan 2K26 National Hackathon |
+| 💰 [Finora](https://github.com/LalThota/finora) | Full-Stack | Personal finance management app |
+| ☕ [Brew & Beyond Café](https://github.com/LalThota/brew-beyond-cafe) | Full-Stack | Café website with menu and ordering UI |
+| 👩‍💼 [She-Intern](https://github.com/LalThota/she-intern) | Full-Stack | Internship platform built for women in tech |
+| 🤖 [Decision Failure Prediction AI](https://github.com/LalThota/Decision-Failure-Prediction) | Python · ML · Pandas | Predictive AI system — National Hackathon project |
 | 🏋️ [AI Agent Gym Planner](https://github.com/LalThota/AI-Gym-Planner) | Python · AI Agents | Personalized fitness plans via intelligent agents |
+| 🏫 [College Utility Portal](https://github.com/LalThota/College-Utility-Portal) | Full-Stack | All-in-one utilities portal for SRKR students |
 | 🎪 [VenueFlow](https://github.com/LalThota/VenueFlow) | Google Antigravity · AI | Smart venue assistant — Hack2Skill/PromptWars |
 
-> ⚠️ Update the repo links above to match your actual GitHub repo names!
+> ⚠️ Check repo names match exactly — update any that differ from your actual GitHub repo names!
 
 ---
 
@@ -102,8 +108,7 @@ lal = {
 | 🥇 Award | 🏛️ Event | 📅 Year |
 |---------|----------|---------|
 | **🏆 1st Place** | Prajwalan 2K26 — EcoWipe (National Level) | 2026 |
-| **Top 10 National** |  Vision-X Hackathon | 2026 |
-
+| **Top 10 National** | VisionX Hackathon — LateralShield | 2025 |
 
 ---
 
@@ -124,14 +129,17 @@ ML Pipelines · Network Security · AI Agents · Full-Stack Dev
 
 *I reply fast.* → [lal98thota@gmail.com](mailto:lal98thota@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=LalThota&color=00FF41&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=LalThota&color=00d9ff&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00d9ff,100:0a0a0a&height=120&section=footer&fontSize=14&fontColor=00d9ff&text=Let%27s+build+something+amazing&descColor=ffffff" />
+```
+$ echo "Thanks for visiting — let's build something amazing 🚀"
+> Thanks for visiting — let's build something amazing 🚀
+```
 
 </div>
