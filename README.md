@@ -106,7 +106,7 @@ lal = {
 
 ## 📱 Content & Community
 
-> 🎥 Building **[@Techies.Hack](https://instagram.com/Techies.Hack)** on Instagram — teaching DSA in Telugu-English (Tenglish)
+> 🎥 Building **[@Techies Hack](https://instagram.com/techies.hack)** on Instagram — teaching DSA in Telugu-English (Tenglish)
 > 1 concept/day · Making Data Structures accessible for Indian CS students 🇮🇳
 
 ---
